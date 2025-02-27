@@ -1,0 +1,9 @@
+{
+    "amount": 20,
+    "stop_loss": 5,
+    "take_profit": 12,
+    "bot_frequency_in_seconds": 10,
+    "vs_currency": "USDT",
+    "number_of_assets": 5,
+    "mode" : "GAINING"
+}
